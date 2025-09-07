@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👋 Hi, I’m Firas Naouel<br>💻 First-year Cybersecurity student at Carleton University<br>🔧 Interested in networking, cloud infrastructure (AWS), and home lab projects<br>📦 Currently exploring Docker, Cloud Security, and Raspberry Pi projects<br>📚 Always learning and building to sharpen my skills
 
